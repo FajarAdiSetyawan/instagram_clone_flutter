@@ -1,4 +1,4 @@
-# flutter_basic_section_4
+# Instagram Clone
 
 A new Flutter project.
 
